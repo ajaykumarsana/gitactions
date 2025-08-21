@@ -1,1 +1,1 @@
-const nameWithoutsemiColon = 'value Set'
+const nameWithoutsemiColon = 'value Set';
