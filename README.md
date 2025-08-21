@@ -7,3 +7,4 @@ After adding .github/workflows/somefile.yml, it turns to be yellow (pending- Cur
   turns to red if code checks fail
 
 Go to Actions tab repo to see work flow actions and its status(Red tick / Green tick)
+  Under work flows- we can see list of commits - click on commit to see the progress of work flow
