@@ -1,10 +1,13 @@
-# gitactions
-To understand and learn about Git actions
+# GitHub Actions
 
+To understand and learn about GitHub Actions:
 
-After adding .github/workflows/somefile.yml, it turns to be yellow (pending- Currently running workflow and checks code)
-  it turns to green if code checks pass
-  turns to red if code checks fail
+After adding `.github/workflows/somefile.yml`, it turns yellow (pending: currently running workflow and checks code).
 
-Go to Actions tab repo to see work flow actions and its status(Red tick / Green tick)
-  Under work flows- we can see list of commits - click on commit to see the progress of work flow
+- It turns green if code checks pass.
+- It turns red if code checks fail.
+
+Go to the **Actions** tab in the repository to see workflow actions and their status (✅ / ❌).
+
+- Under workflows, you can see the list of commits.
+- Click on a commit to see the progress of the workflow.
