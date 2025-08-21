@@ -1,2 +1,2 @@
-const nameWithoutsemiColon = 'value Set';
-console.log(nameWithoutsemiColon);
+const nameWithoutsemiColon = 'value Set'
+console.log(nameWithoutsemiColon)
